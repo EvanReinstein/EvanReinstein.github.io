@@ -1,5 +1,5 @@
-# project-0
-This is my first Front-End solo dive!
+# Portfolio Site
+Learn more about me and my adventures in Web Development!
 
 #### Technologies Used
 - HTML5
