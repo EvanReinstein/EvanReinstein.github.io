@@ -162,12 +162,27 @@ p {
   color: rgb(0, 0, 0);
 }
 
-.carousel-item .git-link {
+.carousel-item .git-link,
+.link-link {
   visibility: hidden;
 }
 
 .carousel-item:hover .git-link {
   visibility: visible;
+}
+
+.carousel-item:hover .carousel-caption {
+  visibility: hidden;
+}
+
+.carousel-item:hover .link-link {
+  visibility: visible;
+}
+
+.crow-watch-header,
+.crow-watch-caption {
+  font-size: 10px;
+  color: rgb(255, 255, 255);
 }
 
 /* Footer
