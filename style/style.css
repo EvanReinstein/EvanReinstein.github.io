@@ -162,6 +162,14 @@ p {
   color: rgb(0, 0, 0);
 }
 
+.carousel-item .git-link {
+  visibility: hidden;
+}
+
+.carousel-item:hover .git-link {
+  visibility: visible;
+}
+
 /* Footer
 ====================*/
 footer {
